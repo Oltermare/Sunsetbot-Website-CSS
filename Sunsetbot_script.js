@@ -6,6 +6,7 @@
 // @author       Oltermare
 // @match        https://sunsetbot.top/*
 // @grant        GM_addStyle
+// @license     CC BY-NC-SA 4.0; https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 // ==/UserScript==
 
 (function() {
