@@ -7,3 +7,7 @@
 1. 字体整体缩小
 2. 主要内容宽度限制最大宽度1000px
 3. 设计绘图的相关容器则保留全屏宽度
+
+修改后效果：
+
+![Sunsetbot webview.png](Sunsetbot webview.png)
